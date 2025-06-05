@@ -24,5 +24,5 @@
 
 
 ### 개인정보방침
-[개인정보처리방침](https://hoonzeee.github.io/)
-[문의, FAQ](https://hoonzeee.github.io/support)
+- [개인정보처리방침](https://hoonzeee.github.io/)
+- [문의, FAQ](https://hoonzeee.github.io/support)
