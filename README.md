@@ -21,14 +21,7 @@
 
 
 ### 기술 스택
-- Spring
-- SpringJPA
-- JWT
-- MySQL
-- Nginx
-- Swift_IOS
-- Swift_WatchOS
-- EC2
+![아키택쳐다이어그램](https://github.com/hoonZeee/PickBus-Portal/blob/main/images/stackDiagram.png)
 
 ### ERD
 - 이미지
