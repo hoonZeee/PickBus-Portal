@@ -17,7 +17,7 @@
 
 ### 앱스토어 링크
 [앱스토어링크](https://apps.apple.com/us/app/%ED%94%BD%EB%B2%84%EC%8A%A4/id6746381872)
-![앱스토어이미지](https://github.com/hoonZeee/PickBus-Portal/blob/main/images/appstore.png)
+![앱스토어이미지](https://github.com/hoonZeee/PickBus-Portal/blob/main/images/appstore.jpeg)
 
 
 
