@@ -27,8 +27,6 @@
 ### 기술 스택
 ![아키택쳐다이어그램](https://github.com/hoonZeee/PickBus-Portal/blob/main/images/stackDiagram.png)
 
-### ERD
-- 이미지
 
 
 ### 개인정보방침
