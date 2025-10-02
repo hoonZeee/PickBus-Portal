@@ -31,5 +31,7 @@
 ![아키택쳐다이어그램](https://github.com/hoonZeee/PickBus-Portal/blob/main/pickbus.drawio.png)
 
 
+### ERD
+![ERD](https://github.com/hoonZeee/PickBus-Portal/blob/main/pickbus-erd-portal.png)
 
 
